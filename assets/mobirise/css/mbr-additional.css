@@ -1094,8 +1094,8 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/wechatimg390-2000x1124.jpg");
 }
 .cid-rDrdzyT9ZL {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #abc1c6;
 }
 .cid-rDrdzyT9ZL h4 {
@@ -1281,9 +1281,9 @@ section.lazy-placeholder:after {
   font-weight: 300;
 }
 .cid-rDrkZUCQVC .step {
-  width: 78px;
-  height: 78px;
-  font-size: 39px;
+  width: 80px;
+  height: 80px;
+  font-size: 40px;
   border-radius: 50%;
   border: 2px solid #7993a2;
   color: #ffffff;
@@ -1299,12 +1299,12 @@ section.lazy-placeholder:after {
   position: relative;
 }
 .cid-rDrkZUCQVC .separline:after {
-  top: 82px;
-  left: 37px;
+  top: 84px;
+  left: 38px;
   position: absolute;
   content: "";
   width: 2px;
-  height: calc(100% - (39px + 4px) * 2);
+  height: calc(100% - (40px + 4px) * 2);
   background-color: #7993a2;
 }
 @media (max-width: 767px) {
