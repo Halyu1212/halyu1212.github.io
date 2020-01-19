@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#f3f6f7",
         "#c0d5ee",
         "#7795aa",
         "#e4c6d0",
         "#90829e",
         "#e8eff5",
-        "#7086a0",
-        "#dedcdf"
+        "#7086a0"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -146,7 +146,7 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "color": "#f3f6f7",
+              "color": "#7795aa",
               "text-align": "center",
               "font-weight": "300"
             },
@@ -257,7 +257,7 @@
               "flex-direction": "column-reverse"
             },
             ".mbr-section-title": {
-              "color": "#f3f6f7"
+              "color": "#7795aa"
             },
             ".mbr-timeline-text": {
               "color": "#f3f6f7"
@@ -530,7 +530,7 @@
               }
             },
             "H5": {
-              "color": "#7993a2"
+              "color": "#7795aa"
             },
             ".copyright > p": {
               "color": "#f3f6f7"
